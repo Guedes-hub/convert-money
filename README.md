@@ -76,11 +76,11 @@ As taxas de câmbio utilizadas são estáticas (fixas no código). Para uma vers
 
 👨‍💻 Como rodar localmente
 
-1. Arquivos do projeto: 
+1. Arquivos do projeto: https://github.com/Guedes-hub/convert-money/tree/main/assets
 
 2. Acesse o projeto na web: https://guedes-hub.github.io/convert-money/
 
-3. Acesse o README.md: 
+3. Acesse o README.md: https://github.com/Guedes-hub/convert-money/edit/main/README.md
 
 
 4. Perfil do autor: https://github.com/Guedes-hub
