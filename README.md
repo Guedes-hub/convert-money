@@ -63,7 +63,7 @@ Exemplo prático: - De: US$ Dólar americano - Para: R$ Real - Valor: 1 Resultad
 <br>
 
 
-📁 assets - ├── index.html ├── style.css ├── scripts.js └── README.md
+📁 assets  ├── index.html ├── style.css ├── scripts.js └── README.md
 <br>
 <br>
 
