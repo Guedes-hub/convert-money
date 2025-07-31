@@ -78,7 +78,7 @@ As taxas de câmbio utilizadas são estáticas (fixas no código). Para uma vers
 
 1. Arquivos do projeto: 
 
-2. Acesse o projeto na web: 
+2. Acesse o projeto na web: https://guedes-hub.github.io/convert-money/
 
 3. Acesse o README.md: 
 
